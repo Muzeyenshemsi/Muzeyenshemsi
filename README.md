@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @Muzeyenshemsi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://www.linkedin.com/in/muzeyen-shemsi-09484130a/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BqSIBB18hS5W9qiKkftOHow%3D%3D
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1>Hi, I'm Muzeyen, an <a href="https://linkedin.com/in/MuzeyenShemsi">IT Professional</a>☺</h1>
 
-<!---
-Muzeyenshemsi/Muzeyenshemsi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2>👨‍💻 Information Technology Projects:</h2>
+
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/Muzeyenshemsi/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/MuzeyenShemsi/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/MuzeyenShemsi/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/MuzeyenShemsi/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/MuzeyenShemsi/azure-network-protocols)
+
+<h2>🤳Connect with me:</h2>
+
+[<img align="left" alt="MuzeyenShemsi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[linkedin]: https://linkedin.com/in/Josh
