@@ -1,14 +1,16 @@
 <h1>Hi, I'm Muzeyen, an <a href="https://www.linkedin.com/in/muzeyen-shemsi-09484130a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BP%2BidwRSBQjKJR5XXWdp00g%3D%3D">IT Professional</a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 IT Troubleshooting Guide:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b>Network (Troubleshooting Network Connectivity Issues)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Muzeyenshemsi/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/MuzeyenShemsi/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/MuzeyenShemsi/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/MuzeyenShemsi/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/MuzeyenShemsi/azure-network-protocols)
+- <b>Active Directory</b>
+  - User-Creation.md 
 
 <h2>🤳Connect with me:</h2>
 
