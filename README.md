@@ -10,7 +10,8 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/MuzeyenShemsi/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/MuzeyenShemsi/azure-network-protocols)
 - <b>Active Directory</b>
-  - User-Creation.md 
+  - <b>User Creation in Active Directory</b>
+   - Introduction
 
 <h2>🤳Connect with me:</h2>
 
