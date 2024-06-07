@@ -11,7 +11,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/MuzeyenShemsi/azure-network-protocols)
 - <h3>Active Directory</h3>
   - <b>User Creation in Active Directory</b>
-   - Introduction
+ 
 
 <h2>🤳Connect with me:</h2>
 
