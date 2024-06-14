@@ -2,13 +2,6 @@
 
 <h2>👨‍💻 IT Troubleshooting Guide:</h2>
 
-- <b>Network (Troubleshooting Network Connectivity Issues)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/Muzeyenshemsi/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/MuzeyenShemsi/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/MuzeyenShemsi/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/MuzeyenShemsi/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/MuzeyenShemsi/azure-network-protocols)
 - <h3>Active Directory</h3>
 
   - [User-Creation-in-Active-Directory](https://github.com/Muzeyenshemsi/User-Creation-in-Active-Directory)
